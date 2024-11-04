@@ -31,8 +31,12 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        <p class="view"><a href="./another-page.html">Another page</a></p>
-
+        <p class="view"><a href="./">About</a></p>
+        <p class="view"><a href="./research.html">Rearch</a></p>
+        <p class="view"><a href="./group.html">Group</a></p>
+        <p class="view"><a href="./teach.html">Teaching</a></p>
+        <p class="view"><a href="./pubs.html">Publications</a></p>
+<!--
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -40,21 +44,18 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        -->
       </header>
       <section>
 
-      {{ content
-        Hello World ! 
-      }}
-
-      
+      {{ content }}
 
       </section>
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Based on the <a href="https://github.com/pages-themes/minimal">Minimal</a> theme</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

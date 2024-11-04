@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~. 
 
 [Link to another page](./another-page.html).
 
@@ -42,6 +42,10 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
+*   M.T. Shahab<br>"paper title,"<br>2020<br>
+
+*   what
+
 
 ##### Header 5
 

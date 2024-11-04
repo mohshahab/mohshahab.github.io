@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Helvetica Neue", "Noto Sans", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -16,6 +16,12 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+  line-height: 1.1;
+}
+
+li {
+  line-height: 1.1; /* Decrease or increase the value to adjust spacing */
+  list-style: square;
 }
 
 h1, h2, h3 {
@@ -119,7 +125,7 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:150px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -186,7 +192,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:650px;
   float:right;
   padding-bottom:50px;
 }
@@ -203,7 +209,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:150px;
   float:left;
   position:fixed;
   bottom:50px;
