@@ -4,6 +4,6 @@ layout: default
 
 ## Research
 
-TBD
+TBA
 
 [back](./)

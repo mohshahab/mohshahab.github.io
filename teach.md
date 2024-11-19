@@ -4,6 +4,6 @@ layout: default
 
 ## Teaching
 
-TBD
+TBA
 
 [back](./)

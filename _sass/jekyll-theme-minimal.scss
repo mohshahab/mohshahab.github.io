@@ -5,8 +5,9 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Helvetica Neue", "Noto Sans", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:#343333;
   font-weight:400;
+  text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-  line-height: 1.1;
+  line-height: 1.5;
 }
 
 li {
@@ -29,7 +30,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:24px;
+  font-size:25px;
 }
 
 h2 {
@@ -43,11 +44,12 @@ h3, h4, h5, h6 {
 a {
   color:#267CB9;
   text-decoration:none;
+  font-weight: 500;
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color:rgb(90, 173, 215);
+  font-weight: 500;
 }
 
 a small {

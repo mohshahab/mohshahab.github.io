@@ -4,6 +4,6 @@ layout: default
 
 ## Group
 
-TBD
+TBA
 
 [back](./)
