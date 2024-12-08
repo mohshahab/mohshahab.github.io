@@ -49,7 +49,7 @@ I have recently joined, as an Assistant Professor, the Department of [Electrical
 
 
 
-My research work focuses generally on the areas related to control and autonomy. Recent interests include adaptive control, optimization & control, robotics & autonomous systems, and the intersection between control theory & machine learning.
+My research work generally focuses on the areas related to control and autonomy. Recent interests include adaptive control, optimization & control, robotics & autonomous systems, and the intersection between control theory & machine learning.
 
 
 
