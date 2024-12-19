@@ -49,11 +49,11 @@ I have recently joined, as an Assistant Professor, the Department of [Electrical
 
 
 
-My research work generally focuses on the areas related to control and autonomy. Recent interests include adaptive control, optimization & control, robotics & autonomous systems, and the intersection between control theory & machine learning.
+My research work generally focuses on the areas related to control and autonomy. Current interests include adaptive control, control & optimization, robotics & autonomous systems, and the intersection between learning & control.
 
 
 
 
-I completed my PhD in Electrical and Computer Engineering from the [University of Waterloo](https://www.uwaterloo.ca) under the supervision of Prof. [Daniel Miller](https://uwaterloo.ca/electrical-computer-engineering/profile/miller). Previously, I have held postdoctoral appointments in [KAUST](https://www.kaust.edu.sa) working with Prof. [Eric Feron](http://www.feron.org/Eric/), and worked as a research engineer with [Baker Hughes](https://www.bakerhughes.com).
+I completed my PhD in Electrical and Computer Engineering from the [University of Waterloo](https://www.uwaterloo.ca) under the supervision of Prof. [Daniel Miller](https://uwaterloo.ca/electrical-computer-engineering/profile/miller). Previously, I have held postdoctoral appointments in [KAUST](https://www.kaust.edu.sa) working with Prof. [Eric Feron](http://www.feron.org/Eric/), and worked as a R&D engineer with [Baker Hughes](https://www.bakerhughes.com).
 
 
